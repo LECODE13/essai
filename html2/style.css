@@ -1,0 +1,99 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+header{
+	background-image: url(./image/6108.jpg);
+	height: 700px;
+	background-size: cover;
+}
+ .logo a{
+
+ 	color: #fff;
+ 	border: 1px solid #fff;
+ 	text-decoration: none;
+ 	text-transform: uppercase;
+ 	top:4px;
+ 	left: 4px;
+ 	position: absolute;
+ }
+
+ span{
+ 	color: red;
+ 	font-size: 20px;
+ }
+
+.menu{
+	display: flex;
+	float: right;
+
+}
+.menu a{
+	float: right;
+	
+	
+	text-decoration: none;
+	text-transform: uppercase;
+	margin: 5px;
+	color: black;
+	border: 1px solid black;
+	font-size: 30px;
+
+   }
+
+.menu a:hover
+{
+	
+color: blue;
+background:black;
+		
+
+}
+.x{
+	display: flex;
+}
+.x a:hover{
+	color:black;
+background:#fff;
+}
+.b{
+	position: absolute;
+	margin: 400px 350px;
+	font-size: 90px;
+	font-weight:500px;
+	color:#fff;
+	border:1px solid yellow;
+	background:#fff;
+
+}
+
+.b a{
+	
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size: 90px;
+	
+
+}
+
+.V a{
+	position: absolute;
+	margin: 520px 590px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	color:yellow;
+	border:1px solid yellow;
+
+}
+
+.R a{
+	position: absolute;
+	margin: 520px 430px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	color:yellow;
+	border:1px solid yellow;
+
+}
